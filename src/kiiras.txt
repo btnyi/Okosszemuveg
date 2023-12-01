@@ -1,0 +1,60 @@
+
+ Sorszám: 0., Kijelző mérete: 5,5, Processzor teljesítménye: 2, Kamera felbontása: 12, Szenzorok: accelerometer, Tárhely mérete: 128 GB, Üzemidő egy töltéssel: 20 
+
+ Sorszám: 1., Kijelző mérete: 6,2, Processzor teljesítménye: 2,5, Kamera felbontása: 16, Szenzorok: fényérzékelő,giroszkóp, Tárhely mérete: 256 GB, Üzemidő egy töltéssel: 18 
+
+ Sorszám: 2., Kijelző mérete: 5,8, Processzor teljesítménye: 2,2, Kamera felbontása: 14, Szenzorok: accelerometer,fényérzékelő, Tárhely mérete: 64 GB, Üzemidő egy töltéssel: 22 
+
+ Sorszám: 3., Kijelző mérete: 6, Processzor teljesítménye: 2,8, Kamera felbontása: 20, Szenzorok: giroszkóp, Tárhely mérete: 512 GB, Üzemidő egy töltéssel: 16 
+
+ Sorszám: 4., Kijelző mérete: 5,7, Processzor teljesítménye: 2,4, Kamera felbontása: 18, Szenzorok: accelerometer,giroszkóp,fényérzékelő, Tárhely mérete: 256 GB, Üzemidő egy töltéssel: 24 
+
+ Sorszám: 5., Kijelző mérete: 6,4, Processzor teljesítménye: 2, Kamera felbontása: 12, Szenzorok: fényérzékelő, Tárhely mérete: 128 GB, Üzemidő egy töltéssel: 19 
+
+ Sorszám: 6., Kijelző mérete: 5,9, Processzor teljesítménye: 2,5, Kamera felbontása: 16, Szenzorok: accelerometer,giroszkóp, Tárhely mérete: 64 GB, Üzemidő egy töltéssel: 21 
+
+ Sorszám: 7., Kijelző mérete: 6,1, Processzor teljesítménye: 2,2, Kamera felbontása: 14, Szenzorok: fényérzékelő, Tárhely mérete: 512 GB, Üzemidő egy töltéssel: 17 
+
+ Sorszám: 8., Kijelző mérete: 5,6, Processzor teljesítménye: 2,8, Kamera felbontása: 20, Szenzorok: accelerometer, Tárhely mérete: 256 GB, Üzemidő egy töltéssel: 23 
+
+ Sorszám: 9., Kijelző mérete: 6,3, Processzor teljesítménye: 2,4, Kamera felbontása: 18, Szenzorok: giroszkóp,fényérzékelő, Tárhely mérete: 128 GB, Üzemidő egy töltéssel: 25 
+
+ Sorszám: 10., Kijelző mérete: 5,5, Processzor teljesítménye: 2, Kamera felbontása: 12, Szenzorok: accelerometer,pulzusmérő,fényérzékelő, Tárhely mérete: 64 GB, Üzemidő egy töltéssel: 20 
+
+ Sorszám: 11., Kijelző mérete: 6,2, Processzor teljesítménye: 2,5, Kamera felbontása: 16, Szenzorok: fényérzékelő,giroszkóp,hőmérséklet-érzékelő, Tárhely mérete: 256 GB, Üzemidő egy töltéssel: 18 
+
+ Sorszám: 12., Kijelző mérete: 5,8, Processzor teljesítménye: 2,2, Kamera felbontása: 14, Szenzorok: accelerometer,fényérzékelő,touchpad-érzékelő, Tárhely mérete: 1 TB, Üzemidő egy töltéssel: 22 
+
+ Sorszám: 13., Kijelző mérete: 6, Processzor teljesítménye: 2,8, Kamera felbontása: 20, Szenzorok: gyroscope,szívritmus-érzékelő, Tárhely mérete: 128 GB, Üzemidő egy töltéssel: 16 
+
+ Sorszám: 14., Kijelző mérete: 5,7, Processzor teljesítménye: 2,4, Kamera felbontása: 18, Szenzorok: accelerometer,giroszkóp,fényérzékelő, Tárhely mérete: 256 GB, Üzemidő egy töltéssel: 24 
+
+ Sorszám: 15., Kijelző mérete: 6,4, Processzor teljesítménye: 2, Kamera felbontása: 12, Szenzorok: fényérzékelő, Tárhely mérete: 64 GB, Üzemidő egy töltéssel: 19 
+
+ Sorszám: 16., Kijelző mérete: 5,9, Processzor teljesítménye: 2,5, Kamera felbontása: 16, Szenzorok: accelerometer,giroszkóp, Tárhely mérete: 512 GB, Üzemidő egy töltéssel: 21 
+
+ Sorszám: 17., Kijelző mérete: 6,1, Processzor teljesítménye: 2,2, Kamera felbontása: 14, Szenzorok: fényérzékelő,hallószervi szenzor, Tárhely mérete: 128 GB, Üzemidő egy töltéssel: 17 
+
+ Sorszám: 18., Kijelző mérete: 5,6, Processzor teljesítménye: 2,8, Kamera felbontása: 20, Szenzorok: accelerometer,touchpad-érzékelő, Tárhely mérete: 64 GB, Üzemidő egy töltéssel: 23 
+
+ Sorszám: 19., Kijelző mérete: 6,3, Processzor teljesítménye: 2,4, Kamera felbontása: 18, Szenzorok: giroszkóp,fényérzékelő,szívritmus-érzékelő, Tárhely mérete: 256 GB, Üzemidő egy töltéssel: 25 
+
+ Sorszám: 20., Kijelző mérete: 5,5, Processzor teljesítménye: 2, Kamera felbontása: 12, Szenzorok: accelerometer, Tárhely mérete: 128 GB, Üzemidő egy töltéssel: 20 
+
+ Sorszám: 21., Kijelző mérete: 6,2, Processzor teljesítménye: 2,5, Kamera felbontása: 16, Szenzorok: fényérzékelő,giroszkóp, Tárhely mérete: 64 GB, Üzemidő egy töltéssel: 18 
+
+ Sorszám: 22., Kijelző mérete: 5,8, Processzor teljesítménye: 2,2, Kamera felbontása: 14, Szenzorok: accelerometer,fényérzékelő, Tárhely mérete: 256 GB, Üzemidő egy töltéssel: 22 
+
+ Sorszám: 23., Kijelző mérete: 6, Processzor teljesítménye: 2,8, Kamera felbontása: 20, Szenzorok: gyroscope, Tárhely mérete: 512 GB, Üzemidő egy töltéssel: 16 
+
+ Sorszám: 24., Kijelző mérete: 5,7, Processzor teljesítménye: 2,4, Kamera felbontása: 18, Szenzorok: accelerometer,giroszkóp,fényérzékelő, Tárhely mérete: 128 GB, Üzemidő egy töltéssel: 24 
+
+ Sorszám: 25., Kijelző mérete: 6,4, Processzor teljesítménye: 2, Kamera felbontása: 12, Szenzorok: fényérzékelő, Tárhely mérete: 256 GB, Üzemidő egy töltéssel: 19 
+
+ Sorszám: 26., Kijelző mérete: 5,9, Processzor teljesítménye: 2,5, Kamera felbontása: 16, Szenzorok: accelerometer,giroszkóp, Tárhely mérete: 64 GB, Üzemidő egy töltéssel: 21 
+
+ Sorszám: 27., Kijelző mérete: 6,1, Processzor teljesítménye: 2,2, Kamera felbontása: 14, Szenzorok: fényérzékelő,touchpad-érzékelő, Tárhely mérete: 1 TB, Üzemidő egy töltéssel: 17 
+
+ Sorszám: 28., Kijelző mérete: 5,6, Processzor teljesítménye: 2,8, Kamera felbontása: 20, Szenzorok: accelerometer,pulzusmérő, Tárhely mérete: 128 GB, Üzemidő egy töltéssel: 23 
+
+ Sorszám: 29., Kijelző mérete: 6,3, Processzor teljesítménye: 2,4, Kamera felbontása: 18, Szenzorok: giroszkóp,fényérzékelő,hőmérséklet-érzékelő, Tárhely mérete: 1 TB, Üzemidő egy töltéssel: 25 
